@@ -1,4 +1,4 @@
-# Git & GitHub Workshop (Mar, 2023)
+# Git & GitHub Workshop 
 
 <img src="./Figures/EventOutlinePoster.jpg" width ="900" height ="900" />
 
@@ -69,7 +69,7 @@ git init
 4. If you didnot setup global configuration, you can configure Git with your name and email address:
 
 ```bash
-git config user.name "Akib Zaman"
+git config user.name "Sihab Sahariar"
 git config user.email "your@email.here"
 ```
 
