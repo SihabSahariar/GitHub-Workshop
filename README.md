@@ -131,7 +131,7 @@ git status
 2. Commit and Add: `git commit -am "Your Commit Message"`
 3. Commit and Add with Editor: `git commit -a`
 4. See Commit History: `git log` or for a short version: `git log --oneline` or for a short version with graph: `git log --oneline --graph`
-5. See Commit History with Author: `git log --oneline --graph --all --decorate --author="Akib Zaman"`
+5. See Commit History with Author: `git log --oneline --graph --all --decorate --author="Sihab Sahariar"`
 
 6. See Specific Commit: `git show <commit_id>`
 
